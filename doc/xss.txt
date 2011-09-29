@@ -1,0 +1,5 @@
+XSS vulnerability in reviews
+
+The sanitizer automatically removes "script" and ";". 
+
+Task: post cookie information to a URL

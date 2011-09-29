@@ -1,0 +1,8 @@
+1. create an account
+2. try to see/edit another user's page (fail)
+3. try to update another user's information (pass)
+4. try to delete another user (pass)
+5. create a new account as an admin (pass)
+6. lock other admin out of his account (change password)
+
+7. ?? Cache hacking ??
