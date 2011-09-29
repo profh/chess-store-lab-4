@@ -82,7 +82,7 @@ class DB
       user.session_id = session_id
       user.save!
     
-      100.times do
+      10.times do
         u = User.new
         u.session_id = session_id
         u.username = Faker::Internet.user_name
