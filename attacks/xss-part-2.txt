@@ -1,6 +1,8 @@
 Easy Level Attack Options
 --------------------------
 <script>alert("I am Arthur, King of the Britons");</script>
+[paste the 'view source' version of the exploit here]
+
 <script>alert('I am Arthur, King of the Britons');</script>
 
 
